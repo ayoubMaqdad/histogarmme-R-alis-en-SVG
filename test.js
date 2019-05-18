@@ -5,7 +5,7 @@ class Plot {
         this.svg = svg;
         this.dataset = {
             labels: ["2013", "2014", "2015", "2015"],
-            data: [20, -19, 15, -7],
+            data: [20, 17, 15, 14],
         };
 
         this.prepareSvg();
